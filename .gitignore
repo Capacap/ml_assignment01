@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+ENV/
+
+# PyCharm
+.idea/
+*.iml
+.DS_Store
+
+# MNIST Data
+data/
+
+# Model checkpoints and logs
+models/
+
+# Distribution / packaging
+.Python
+*.manifest
+*.spec 
