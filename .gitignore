@@ -32,11 +32,13 @@ ENV/
 *.iml
 .DS_Store
 
-# MNIST Data
+# Data
 data/
+dataset/
 
 # Model checkpoints and logs
 models/
+mlruns/
 
 # Distribution / packaging
 .Python
